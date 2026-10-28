@@ -32,13 +32,23 @@ Focused on scalable, reliable AI systems that connect machine learning research 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-172554?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-0E7490?style=for-the-badge)
 
+**Agentic AI & Frameworks**
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4F46E5?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4338CA?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-0F766E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-7C3AED?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-6366F1?style=for-the-badge)
+![Multi-Agent Workflows](https://img.shields.io/badge/Multi--Agent_Workflows-3730A3?style=for-the-badge)
+
 **LLM & Retrieval Engineering**
 
 ![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0E7490?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-155E75?style=for-the-badge)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-164E63?style=for-the-badge)
-
-<sub>Currently exploring: LangChain · LangGraph · FAISS · pgvector · hybrid retrieval · RAG evaluation</sub>
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-0369A1?style=for-the-badge)
 
 **Backend & Data**
 
@@ -49,10 +59,15 @@ Focused on scalable, reliable AI systems that connect machine learning research 
 
 **Cloud & Development**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services_(AWS)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**AI Development Tools**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
