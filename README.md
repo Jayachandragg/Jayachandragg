@@ -1,55 +1,110 @@
 <div align="center">
 
-# Jayachandra Galda
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,50:172554,100:0891B2&text=Jayachandra%20Galda&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Applied%20AI%20%7C%20LLM%20Systems%20%7C%20ML%20Engineering&descAlignY=60&descSize=16" alt="Jayachandra Galda — Applied AI and ML Engineering" width="100%" />
 
-### Applied AI Engineer · LLM Systems · RAG · Agentic AI · MLOps
+### Building intelligent systems from research to real-world applications.
 
-**Building intelligent systems that move from research prototypes to useful applications.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=flat-square)](https://jayachandragg.github.io/tensor-essence/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-chandra-galda-077aa624b)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292f?style=flat-square&logo=github)](https://github.com/Jayachandragg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://jayachandragg.github.io/tensor-essence/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-chandra-galda-077aa624b)
+[![Featured Projects](https://img.shields.io/badge/Explore-Projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](#selected-engineering-work)
 
 </div>
 
 ---
 
-### About me
+### About
 
-I'm an AI engineering graduate from the **University at Buffalo (SUNY)** with an MS in Engineering Science (Artificial Intelligence). I enjoy connecting machine learning research with practical engineering: data pipelines, retrieval systems, APIs, and deployable AI applications.
+I'm an AI engineering graduate with an **MS in Engineering Science (Artificial Intelligence) from the University at Buffalo**. I build across the stack, from multimodal data processing and ML experiments to APIs, retrieval systems, and user-facing applications.
 
-- 🔭 **Building:** RAG systems, AI agents, and end-to-end ML applications
-- 🧠 **Interested in:** multimodal AI, retrieval quality, LLM evaluation, and reliable inference
-- 🛠️ **Engineering focus:** Python, PyTorch, FastAPI, SQL, Docker, AWS
-- 🎯 **Roles:** Applied AI Engineer · ML Engineer · Forward Deployed Engineer
+**Focus:** Applied AI · Retrieval-Augmented Generation · Multimodal ML · Backend Engineering · MLOps
 
-### Selected work
+> I care about systems that are measurable, maintainable, and useful beyond a notebook.
 
-| Project | What it demonstrates | Explore |
-|:--|:--|:--|
-| **Multimodal Video Analysis** | Structured video/transcript processing and interaction analysis | [Repository](https://github.com/Jayachandragg/video_automation) |
-| **AI Image Detector** | β-VAE latent-space classification for synthetic image detection; repository reports **98% accuracy / 0.997 AUC** | [Code](https://github.com/Jayachandragg/AI_Image_Detector) · [Demo](https://huggingface.co/spaces/chandu1083/AI_Image_Check) |
-| **HFrEF AI Application** | Clinical decision-support research prototype with deterministic rules and lightweight RAG | [Repository](https://github.com/Jayachandragg/HFrEF_aws) |
-| **E-Commerce Data Platform** | Database design, SQL, and analytics workflows | [Repository](https://github.com/Jayachandragg/DMQL-FINAL-PROJECT-E-COMMERCE) |
-| **Portfolio — Tensor Essence** | Interactive developer portfolio built with TypeScript | [Code](https://github.com/Jayachandragg/tensor-essence) · [Website](https://jayachandragg.github.io/tensor-essence/) |
-| **Sentiment API** | Python service development and API engineering | [Repository](https://github.com/Jayachandragg/sentiment-api) |
+### Selected engineering work
 
-### Tools & technologies
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI & ML:** Python · PyTorch · scikit-learn · NLP · Computer Vision · Embeddings · RAG  
-**Backend & data:** FastAPI · SQL · PostgreSQL · REST APIs  
-**Infrastructure:** AWS · Docker · Git · GitHub Actions  
-**Currently exploring:** LangChain · LangGraph · FAISS · pgvector · hybrid retrieval · RAG evaluation
+#### 🎬 [Multimodal Interaction Analysis](https://github.com/Jayachandragg/video_automation)
+**ELAN · Python · LLM-assisted processing**
 
-### Credentials & recognition
+Transforms fragmented ELAN annotations into event-level JSON through deterministic and language-model-assisted merging.
 
-- **MS, Engineering Science — Artificial Intelligence**, University at Buffalo (2025–2026)
-- **AWS Certified Data Engineer – Associate** (2026)
-- **2nd Place**, University at Buffalo Startup Bootcamp
-- **2nd Place**, Health Futures Challenge
+[Explore the pipeline →](https://github.com/Jayachandragg/video_automation)
 
-### Let's connect
+</td>
+<td width="50%" valign="top">
 
-I'm interested in collaborating on applied AI, LLM-powered products, and production ML systems.
+#### 🧠 [AI Image Detector](https://github.com/Jayachandragg/AI_Image_Detector)
+**β-VAE · Representation Learning · Evaluation**
 
-**[Portfolio](https://jayachandragg.github.io/tensor-essence/)** · **[LinkedIn](https://www.linkedin.com/in/jaya-chandra-galda-077aa624b)** · **[GitHub](https://github.com/Jayachandragg)**
+Latent-space classification of real and AI-generated images. Repository reports **98% accuracy and 0.997 ROC-AUC**.
+
+[Code](https://github.com/Jayachandragg/AI_Image_Detector) · [Live demo](https://huggingface.co/spaces/chandu1083/AI_Image_Check)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ❤️ [HFrEF AI Agent](https://github.com/Jayachandragg/HFrEF_aws)
+**FastAPI · Rule Engine · RAG**
+
+Research prototype combining deterministic evaluation rules and guideline retrieval. Not validated for clinical use.
+
+[Explore the architecture →](https://github.com/Jayachandragg/HFrEF_aws)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 [E-Commerce Analytics](https://github.com/Jayachandragg/DMQL-FINAL-PROJECT-E-COMMERCE)
+**PostgreSQL · dbt · Docker · Streamlit**
+
+Data ingestion, relational modeling, analytical SQL, and a dashboard for business insights.
+
+[Explore the data platform →](https://github.com/Jayachandragg/DMQL-FINAL-PROJECT-E-COMMERCE)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More engineering projects</b></summary>
+
+- **[Tensor Essence](https://github.com/Jayachandragg/tensor-essence)** — React/TypeScript interactive portfolio · [Live site](https://jayachandragg.github.io/tensor-essence/)
+- **[Sentiment API](https://github.com/Jayachandragg/sentiment-api)** — Dockerized FastAPI service with a rule-based sentiment baseline
+- **[FastAPI Learning](https://github.com/Jayachandragg/FastAPI_learning)** — Backend engineering exercises
+
+</details>
+
+### Engineering toolkit
+
+| Area | Tools & technologies |
+|:--|:--|
+| **Machine Learning** | Python, PyTorch, scikit-learn, computer vision, NLP |
+| **LLM & Retrieval** | RAG, embeddings, semantic retrieval; exploring LangChain, LangGraph, FAISS, pgvector |
+| **Backend & Data** | FastAPI, REST APIs, SQL, PostgreSQL |
+| **Cloud & Delivery** | AWS, Docker, Git, GitHub Actions |
+| **Frontend** | React, TypeScript, Vite |
+
+### Education & recognition
+
+- 🎓 **University at Buffalo (SUNY)** — MS, Engineering Science: Artificial Intelligence (2025–2026)
+- ☁️ **AWS Certified Data Engineer – Associate** (2026)
+- 🏆 **2nd Place**, University at Buffalo Startup Bootcamp
+- 🏆 **2nd Place**, Health Futures Challenge
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+Open to conversations about applied AI engineering, LLM systems, and ML infrastructure.
+
+**[Portfolio](https://jayachandragg.github.io/tensor-essence/) · [LinkedIn](https://www.linkedin.com/in/jaya-chandra-galda-077aa624b)**
+
+<sub>Designed for clarity. Built around real projects.</sub>
+
+</div>
