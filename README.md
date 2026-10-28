@@ -12,81 +12,50 @@
 
 ---
 
-### About
+### About me
 
-I'm an AI engineering graduate with an **MS in Engineering Science (Artificial Intelligence) from the University at Buffalo**. I build across the stack, from multimodal data processing and ML experiments to APIs, retrieval systems, and user-facing applications.
+I'm an AI engineering graduate from the **University at Buffalo (SUNY)** with an MS in Engineering Science (Artificial Intelligence). I enjoy connecting machine learning research with practical engineering: data pipelines, retrieval systems, APIs, and deployable AI applications.
 
-**Focus:** Applied AI · Retrieval-Augmented Generation · Multimodal ML · Backend Engineering · MLOps
+- 🔭 **Building:** RAG systems, AI agents, and end-to-end ML applications
+- 🧠 **Interested in:** multimodal AI, retrieval quality, LLM evaluation, and reliable inference
+- 🛠️ **Engineering focus:** Python, PyTorch, FastAPI, SQL, Docker, AWS
+- 🎯 **Roles:** Applied AI Engineer · ML Engineer · Forward Deployed Engineer
 
-> I care about systems that are measurable, maintainable, and useful beyond a notebook.
+### Skills & technologies
 
-### Selected engineering work
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**AI / Machine Learning**
 
-#### 🎬 [Multimodal Interaction Analysis](https://github.com/Jayachandragg/video_automation)
-**ELAN · Python · LLM-assisted processing**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-172554?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0E7490?style=for-the-badge)
 
-Transforms fragmented ELAN annotations into event-level JSON through deterministic and language-model-assisted merging.
+**LLM & Retrieval Engineering**
 
-[Explore the pipeline →](https://github.com/Jayachandragg/video_automation)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-155E75?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-164E63?style=for-the-badge)
 
-</td>
-<td width="50%" valign="top">
+<sub>Currently exploring: LangChain · LangGraph · FAISS · pgvector · hybrid retrieval · RAG evaluation</sub>
 
-#### 🧠 [AI Image Detector](https://github.com/Jayachandragg/AI_Image_Detector)
-**β-VAE · Representation Learning · Evaluation**
+**Backend & Data**
 
-Latent-space classification of real and AI-generated images. Repository reports **98% accuracy and 0.997 ROC-AUC**.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-475569?style=for-the-badge)
 
-[Code](https://github.com/Jayachandragg/AI_Image_Detector) · [Live demo](https://huggingface.co/spaces/chandu1083/AI_Image_Check)
+**Cloud & Development**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### ❤️ [HFrEF AI Agent](https://github.com/Jayachandragg/HFrEF_aws)
-**FastAPI · Rule Engine · RAG**
-
-Research prototype combining deterministic evaluation rules and guideline retrieval. Not validated for clinical use.
-
-[Explore the architecture →](https://github.com/Jayachandragg/HFrEF_aws)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📊 [E-Commerce Analytics](https://github.com/Jayachandragg/DMQL-FINAL-PROJECT-E-COMMERCE)
-**PostgreSQL · dbt · Docker · Streamlit**
-
-Data ingestion, relational modeling, analytical SQL, and a dashboard for business insights.
-
-[Explore the data platform →](https://github.com/Jayachandragg/DMQL-FINAL-PROJECT-E-COMMERCE)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More engineering projects</b></summary>
-
-- **[Tensor Essence](https://github.com/Jayachandragg/tensor-essence)** — React/TypeScript interactive portfolio · [Live site](https://jayachandragg.github.io/tensor-essence/)
-- **[Sentiment API](https://github.com/Jayachandragg/sentiment-api)** — Dockerized FastAPI service with a rule-based sentiment baseline
-- **[FastAPI Learning](https://github.com/Jayachandragg/FastAPI_learning)** — Backend engineering exercises
-
-</details>
-
-### Engineering toolkit
-
-| Area | Tools & technologies |
-|:--|:--|
-| **Machine Learning** | Python, PyTorch, scikit-learn, computer vision, NLP |
-| **LLM & Retrieval** | RAG, embeddings, semantic retrieval; exploring LangChain, LangGraph, FAISS, pgvector |
-| **Backend & Data** | FastAPI, REST APIs, SQL, PostgreSQL |
-| **Cloud & Delivery** | AWS, Docker, Git, GitHub Actions |
-| **Frontend** | React, TypeScript, Vite |
+</div>
 
 ### Education & recognition
 
