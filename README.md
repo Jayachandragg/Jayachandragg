@@ -14,12 +14,11 @@
 
 ### About me
 
-I'm an AI engineering graduate from the **University at Buffalo (SUNY)** with an MS in Engineering Science (Artificial Intelligence). I enjoy connecting machine learning research with practical engineering: data pipelines, retrieval systems, APIs, and deployable AI applications.
+**AI Engineer with 3+ years of experience** designing and building production Generative AI applications, retrieval-augmented generation (RAG) systems, LLM inference services, and agentic workflows using LangGraph and LangSmith.
 
-- 🔭 **Building:** RAG systems, AI agents, and end-to-end ML applications
-- 🧠 **Interested in:** multimodal AI, retrieval quality, LLM evaluation, and reliable inference
-- 🛠️ **Engineering focus:** Python, PyTorch, FastAPI, SQL, Docker, AWS
-- 🎯 **Roles:** Applied AI Engineer · ML Engineer · Forward Deployed Engineer
+Built **FastAPI inference APIs handling 50K+ daily requests at sub-200ms p95 latency**, a **FAISS semantic search layer indexing 500K+ documents and improving retrieval accuracy by 40%**, and **ETL pipelines processing 2M+ records daily while reducing data preparation time by 45%**.
+
+Focused on scalable, reliable AI systems that connect machine learning research with real-world applications.
 
 ### Skills & technologies
 
